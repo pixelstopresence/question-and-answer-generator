@@ -1,35 +1,236 @@
 {
   "uiux": [
     {
-      "level": "junior",
-      "question": "What is UX design?",
-      "answer": "UX design focuses on improving user satisfaction by enhancing usability and accessibility."
-    },
-    {
-      "level": "junior",
-      "question": "What is UI design?",
-      "answer": "UI design deals with visual elements like buttons, colors, typography, and layouts."
-    },
-    {
-      "level": "mid",
-      "question": "What is a user persona?",
-      "answer": "A user persona is a fictional representation of a target user based on research."
-    },
-    {
-      "level": "mid",
-      "question": "What is usability testing?",
-      "answer": "Usability testing evaluates how easily users can complete tasks in a product."
-    },
-    {
-      "level": "senior",
-      "question": "Explain design systems",
-      "answer": "A design system is a collection of reusable components and standards."
-    },
-    {
-      "level": "senior",
-      "question": "How do you measure UX success?",
-      "answer": "Using metrics like task success rate, NPS, usability scores, and retention."
-    }
+  "level": "junior",
+  "question": "What is UI design?",
+  "answer": "UI design focuses on the visual and interactive elements of a product such as buttons, colors, typography, and layout."
+},
+{
+  "level": "junior",
+  "question": "What is UX design?",
+  "answer": "UX design is about improving the overall experience of users by making products easy, useful, and enjoyable to use."
+},
+{
+  "level": "junior",
+  "question": "What is the difference between UI and UX?",
+  "answer": "UI focuses on how a product looks, while UX focuses on how a product works and feels for the user."
+},
+{
+  "level": "junior",
+  "question": "What is user-centered design?",
+  "answer": "User-centered design is an approach where design decisions are made based on user needs, goals, and behaviors."
+},
+{
+  "level": "junior",
+  "question": "What is usability?",
+  "answer": "Usability refers to how easily users can use a product to achieve their goals."
+},
+{
+  "level": "junior",
+  "question": "What is accessibility in design?",
+  "answer": "Accessibility ensures that products can be used by people with disabilities, such as visual or motor impairments."
+},
+{
+  "level": "junior",
+  "question": "What is a wireframe?",
+  "answer": "A wireframe is a low-fidelity visual guide that represents the basic structure and layout of a screen."
+},
+{
+  "level": "junior",
+  "question": "What is a prototype?",
+  "answer": "A prototype is an interactive model used to test and demonstrate how a product will work."
+},
+{
+  "level": "junior",
+  "question": "What is a user persona?",
+  "answer": "A user persona is a fictional character created to represent a target user group based on research."
+},
+{
+  "level": "junior",
+  "question": "What is user research?",
+  "answer": "User research involves studying users to understand their needs, behaviors, and problems."
+},
+{
+  "level": "junior",
+  "question": "What is a user journey?",
+  "answer": "A user journey maps the steps a user takes to complete a task within a product."
+},
+{
+  "level": "junior",
+  "question": "What is information architecture?",
+  "answer": "Information architecture is the process of organizing and structuring content so users can find information easily."
+},
+{
+  "level": "junior",
+  "question": "What is a design system?",
+  "answer": "A design system is a collection of reusable components, styles, and guidelines used across a product."
+},
+{
+  "level": "junior",
+  "question": "What is visual hierarchy?",
+  "answer": "Visual hierarchy helps guide users’ attention by arranging elements based on importance."
+},
+{
+  "level": "junior",
+  "question": "What is white space?",
+  "answer": "White space is the empty space between design elements that improves readability and clarity."
+},
+{
+  "level": "junior",
+  "question": "What is typography?",
+  "answer": "Typography is the style and appearance of text, including font type, size, and spacing."
+},
+{
+  "level": "junior",
+  "question": "What is color theory?",
+  "answer": "Color theory explains how colors work together and how they affect user emotions and behavior."
+},
+{
+  "level": "junior",
+  "question": "What is contrast in design?",
+  "answer": "Contrast helps distinguish elements by using differences in color, size, or shape."
+},
+{
+  "level": "junior",
+  "question": "What is consistency in UI design?",
+  "answer": "Consistency ensures similar elements behave and look the same across a product."
+},
+{
+  "level": "junior",
+  "question": "What is a grid system?",
+  "answer": "A grid system helps align elements consistently across a layout."
+},
+{
+  "level": "junior",
+  "question": "What is responsive design?",
+  "answer": "Responsive design ensures a product works well on different screen sizes and devices."
+},
+{
+  "level": "junior",
+  "question": "What is mobile-first design?",
+  "answer": "Mobile-first design starts designing for small screens first and then scales up."
+},
+{
+  "level": "junior",
+  "question": "What is a CTA?",
+  "answer": "CTA stands for Call To Action and guides users to take a specific action."
+},
+{
+  "level": "junior",
+  "question": "What is usability testing?",
+  "answer": "Usability testing evaluates how real users interact with a product to find issues."
+},
+{
+  "level": "junior",
+  "question": "What is A/B testing?",
+  "answer": "A/B testing compares two versions of a design to see which performs better."
+},
+{
+  "level": "junior",
+  "question": "What is heuristic evaluation?",
+  "answer": "Heuristic evaluation is reviewing a design using usability principles to identify problems."
+},
+{
+  "level": "junior",
+  "question": "What is onboarding?",
+  "answer": "Onboarding helps new users understand how to use a product effectively."
+},
+{
+  "level": "junior",
+  "question": "What is microcopy?",
+  "answer": "Microcopy is small pieces of text that guide users, like button labels and error messages."
+},
+{
+  "level": "junior",
+  "question": "What are icons used for?",
+  "answer": "Icons visually represent actions or content and help users understand quickly."
+},
+{
+  "level": "junior",
+  "question": "What is affordance?",
+  "answer": "Affordance indicates how an element can be used, like a button looking clickable."
+},
+{
+  "level": "junior",
+  "question": "What is feedback in UI?",
+  "answer": "Feedback informs users about the result of their actions, such as success messages."
+},
+{
+  "level": "junior",
+  "question": "What is error handling?",
+  "answer": "Error handling helps users recover from mistakes with clear messages and guidance."
+},
+{
+  "level": "junior",
+  "question": "What is a modal?",
+  "answer": "A modal is a dialog box that appears on top of the main content."
+},
+{
+  "level": "junior",
+  "question": "What is a breadcrumb?",
+  "answer": "Breadcrumbs show users their current location within a website hierarchy."
+},
+{
+  "level": "junior",
+  "question": "What is navigation?",
+  "answer": "Navigation helps users move through different sections of a product."
+},
+{
+  "level": "junior",
+  "question": "What is a dashboard?",
+  "answer": "A dashboard displays important information and metrics in one view."
+},
+{
+  "level": "junior",
+  "question": "What is Figma?",
+  "answer": "Figma is a design tool used for UI design, prototyping, and collaboration."
+},
+{
+  "level": "junior",
+  "question": "What is a design handoff?",
+  "answer": "Design handoff is the process of sharing designs and specs with developers."
+},
+{
+  "level": "junior",
+  "question": "What is user empathy?",
+  "answer": "User empathy is understanding users’ feelings, needs, and challenges."
+},
+{
+  "level": "junior",
+  "question": "What is a low-fidelity design?",
+  "answer": "Low-fidelity designs are simple and rough representations used early in the process."
+},
+{
+  "level": "junior",
+  "question": "What is a high-fidelity design?",
+  "answer": "High-fidelity designs are detailed and closely resemble the final product."
+},
+{
+  "level": "junior",
+  "question": "What is a design brief?",
+  "answer": "A design brief outlines the project goals, scope, and requirements."
+},
+{
+  "level": "junior",
+  "question": "What is usability vs accessibility?",
+  "answer": "Usability focuses on ease of use, while accessibility ensures use by people with disabilities."
+},
+{
+  "level": "junior",
+  "question": "What is iteration in design?",
+  "answer": "Iteration means improving designs based on feedback and testing."
+},
+{
+  "level": "junior",
+  "question": "What is a sticky header?",
+  "answer": "A sticky header stays visible while scrolling to improve navigation."
+},
+{
+  "level": "junior",
+  "question": "What is design thinking?",
+  "answer": "Design thinking is a problem-solving approach focused on understanding users and testing ideas."
+}
+
   ],
 
   "digital_marketing": [
