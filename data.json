@@ -1,0 +1,100 @@
+{
+  "uiux": [
+    {
+      "level": "junior",
+      "question": "What is UX design?",
+      "answer": "UX design focuses on improving user satisfaction by enhancing usability and accessibility."
+    },
+    {
+      "level": "junior",
+      "question": "What is UI design?",
+      "answer": "UI design deals with visual elements like buttons, colors, typography, and layouts."
+    },
+    {
+      "level": "mid",
+      "question": "What is a user persona?",
+      "answer": "A user persona is a fictional representation of a target user based on research."
+    },
+    {
+      "level": "mid",
+      "question": "What is usability testing?",
+      "answer": "Usability testing evaluates how easily users can complete tasks in a product."
+    },
+    {
+      "level": "senior",
+      "question": "Explain design systems",
+      "answer": "A design system is a collection of reusable components and standards."
+    },
+    {
+      "level": "senior",
+      "question": "How do you measure UX success?",
+      "answer": "Using metrics like task success rate, NPS, usability scores, and retention."
+    }
+  ],
+
+  "digital_marketing": [
+    {
+      "level": "junior",
+      "question": "What is digital marketing?",
+      "answer": "Digital marketing promotes products through online channels like search and social media."
+    },
+    {
+      "level": "junior",
+      "question": "What is SEO?",
+      "answer": "SEO improves website visibility on search engines organically."
+    },
+    {
+      "level": "mid",
+      "question": "What is PPC advertising?",
+      "answer": "PPC is a paid advertising model where advertisers pay per click."
+    },
+    {
+      "level": "mid",
+      "question": "Explain email marketing",
+      "answer": "Email marketing involves sending targeted emails to nurture leads."
+    },
+    {
+      "level": "senior",
+      "question": "How do you measure campaign success?",
+      "answer": "By KPIs like ROI, CAC, CTR, conversions, and engagement."
+    },
+    {
+      "level": "senior",
+      "question": "Explain marketing automation",
+      "answer": "Automation uses tools to streamline marketing tasks and workflows."
+    }
+  ],
+
+  "graphic_design": [
+    {
+      "level": "junior",
+      "question": "What is graphic design?",
+      "answer": "Graphic design is visual communication using typography and imagery."
+    },
+    {
+      "level": "junior",
+      "question": "What are RGB and CMYK?",
+      "answer": "RGB is for screens, CMYK is for print."
+    },
+    {
+      "level": "mid",
+      "question": "What is visual hierarchy?",
+      "answer": "It arranges elements to guide user attention."
+    },
+    {
+      "level": "mid",
+      "question": "What is branding?",
+      "answer": "Branding defines the identity and perception of a business."
+    },
+    {
+      "level": "senior",
+      "question": "What makes a good logo?",
+      "answer": "A good logo is simple, memorable, scalable, and relevant."
+    },
+    {
+      "level": "senior",
+      "question": "Explain design consistency",
+      "answer": "Consistency ensures visual coherence across all assets."
+    }
+  ]
+}
